@@ -1,4 +1,4 @@
-# Predicción de Rotación de Clientes y Segmentación – Sprint 13 (Tripleten Bootcamp)
+# Predicción de Rotación de Clientes y Segmentación
 
 ## Descripción del proyecto
 
