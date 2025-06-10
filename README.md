@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 
-El objetivo de este proyecto fue identificar a los clientes con mayor probabilidad de abandonar una cadena de gimnasios y segmentarlos para diseñar estrategias de retención. Se aplicaron técnicas de machine learning supervisado y clustering no supervisado para generar un enfoque proactivo en la gestión del ciclo de vida del cliente.
+Este proyecto desarrolla un modelo predictivo para identificar clientes con alta probabilidad de cancelar su membresía en la cadena de gimnasios Model Fitness. Mediante técnicas de machine learning y análisis exploratorio de datos, se identificaron los factores clave que influyen en la rotación de clientes y se elaboraron estrategias de retención personalizadas.
 
 ## Objetivos
 
@@ -31,8 +31,18 @@ El objetivo de este proyecto fue identificar a los clientes con mayor probabilid
 - Se identificaron variables críticas como el tipo de suscripción, la duración del contrato y la frecuencia de visitas.
 - La segmentación reveló perfiles de riesgo que permiten personalizar campañas de fidelización.
 
+## Análisis de Rotación - Insights Críticos
+
+- Tasa de churn actual: 26% (desbalanceada vs. 74% retención)
+- Factor #1 de riesgo: Contratos de 1 mes (mayor probabilidad de cancelación)
+- Período crítico: Primeros 2-3 meses como cliente
+- Indicador temprano: Disminución en frecuencia de asistencia mensual
+
 ## Sobre mí
 
 Este proyecto fue desarrollado por **Andrea Mézquita** como parte de mi formación en el Bootcamp de Análisis de Datos de **Tripleten**. Busco aplicar técnicas de análisis y modelado predictivo para mejorar la toma de decisiones en empresas con enfoque en clientes.
 
 LinkedIn: https://www.linkedin.com/in/andrea-mézquita
+
+____
+Proyecto desarrollado como parte del Bootcamp de Análisis de Datos - TripleTen
